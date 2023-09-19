@@ -1,0 +1,14 @@
+.notes {
+    display: flex;
+    flex-direction: column;
+    gap: .75em;
+}
+
+.title {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.text {
+    font-size: 1rem;
+}

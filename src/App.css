@@ -1,0 +1,16 @@
+:host {
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  width: 80%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
